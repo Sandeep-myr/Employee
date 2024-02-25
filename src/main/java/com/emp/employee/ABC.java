@@ -4,5 +4,5 @@ public class ABC {
 	private Integer meraId;
 	private String name;
 	private Integer age;
-	
+	private Double fees;
 }
